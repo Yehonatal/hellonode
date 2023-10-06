@@ -1,0 +1,15 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "hello to node backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yehonatal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
